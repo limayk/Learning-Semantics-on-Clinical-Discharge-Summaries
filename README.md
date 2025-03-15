@@ -14,7 +14,8 @@ Our approach involves machine learning techniques, fine-tuned Large Language Mod
 
 🔹 **`Small AI algorithms/`** - AI algorithms used for feature selection, preprocessing, and prediction of patient readmission risk.
 
-🔹 **`finetuning Bert/`** - Code for finetuning ClinicalBERT on a subset MIMIC IV-Note data
+🔹 **`Finetuning BERT/`** - code for finetuning ClinicalBERT on a subset of MIMIC-IV Note data
+
 ---
 
 ## 🎯 Project Objectives
