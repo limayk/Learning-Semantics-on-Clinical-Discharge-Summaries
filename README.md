@@ -1,21 +1,20 @@
 # 🚀 Predicting Hospital Readmissions
 
 Welcome to our **Predicting Hospital Readmissions** project! 
-This repository contains our work on developing an AI-based predictive model to determine the likelihood of patient readmission after discharge. 
+This repository contains our work on developing AI-based predictive models to determine the likelihood of patient readmission after discharge. 
 Our approach involves machine learning techniques, fine-tuned Large Language Models, and API calls to established LLMs to build an effective predictive system.
 
 ---
 
 ## 📂 Repository Structure
 
-🔹 **`algorithms/`** - AI algorithms used for feature selection, preprocessing, and prediction of patient readmission risk.
+🔹 **`Embedding Code/`** - All of our embeddings using pretrained ClinicalBERT, finetuned Bert, and OpenAI ChatGPT 4o-mini
 
-🔹 **`datasets/`** - The datasets comes from MIMIC-IV database and uses Deidentified free-text clinical notes
+🔹 **`Pivots, Plots and Processing/`** - Data cleaning, plotting and presenting metrics and results
 
-🔹 **`llm_training/`** - Code and models used for training **Large Language Models (LLMs)** to analyze patient notes and extract predictive insights.
+🔹 **`Small AI algorithms/`** - AI algorithms used for feature selection, preprocessing, and prediction of patient readmission risk.
 
-🔹 **`established LLMs/`** - Code for calling established LLMs and calculating their semantic embeddings.
-
+🔹 **`finetuning Bert/`** - Code for finetuning ClinicalBERT on a subset MIMIC IV-Note data
 ---
 
 ## 🎯 Project Objectives
